@@ -3,7 +3,7 @@
 ## Project Overview
 Project Manager: ***Blayne Kuhn***
 Project Sponsor: ***Katherine Kopp***
-Target Launch Date: November 20, 2026
+Target Launch Date: **November 20, 2026**
 
 ### Project Scope
 A field operations & chain management portal will be able to effectively allow field teams to upload daily site logs, track safety incidents, flag blueprint modifications, and submit change requests without all of the disorganization. It will also allow project managers to easily review, approve, and link chain orders directly to the project budget impacts in real time. 

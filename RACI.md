@@ -1,8 +1,8 @@
-| Tasks/Deliverable | Project Manager | Business Analyst | Systems Architect | QA Lead
-|-------------------|:----------------:|:--------------:|:------------------:|:------:|
-|Project Charter Approval  | A          | R           | C                     | I       |
-| Requirements Specification | C       | R/A           | C                     | C       |
-| System Architecture Design  | C     | C               | R/A                  | I       |
-| Code Construction & Unit Test | I      | I             | R/A                  | C       |
-| User Acceptance Testing (UAT)  | C     | R              | C                     | R/A    |
-| Production Release Sign-Off      | A    | C             | C                     | R       |
+Task / Deliverable| Sponsor | Project Manager | Business Analyst | Systems Architect | Dev Team | QA Lead |
+| -------------| :------: | :--------------: | :-----------------: | :-------------------: | :-------: | :------: |
+| Project Charter Approval | A  | R          | C                   | C                     | I        | I       |
+| Requirements Specification  | I             | C                | R/A                    | C           | I      | C       |
+| System Architecture Design  | I     | C       | C                  | R/A                  | C        | I       |
+| Code Construction & Unit Test | I    | A       | I               | C                     | R        | C       |
+| User Acceptance Testing (UAT) | I       | C                | R                   | C         | C        | R/A    |
+| Production Release Sign-Off   | A       | R     | C           | C                 | I        | C       |

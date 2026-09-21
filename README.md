@@ -5,9 +5,9 @@ Project Manager:
 Project Sponsor: Katherine Kopp
 Target Launch Date: November 20, 2026
 
-###Executive Summary
+### Executive Summary
 
-###Problem Statement
+### Problem Statement
 
 ### Strategic & Alignment Benefits
 ### Roles & Governance

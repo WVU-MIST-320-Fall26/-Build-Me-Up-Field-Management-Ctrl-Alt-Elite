@@ -9,6 +9,10 @@ Target Launch Date: **November 20, 2026**
 A field operations & chain management portal will be able to effectively allow field teams to upload daily site logs, track safety incidents, flag blueprint modifications, and submit change requests without all of the disorganization. It will also allow project managers to easily review, approve, and link chain orders directly to the project budget impacts in real time. 
 
 ### Objectives
+* **Cut down budget overruns**: link change orders from the field straight to the real-time budget so we can catch unaccounted costs early.
+* **Speed up change order approvals**: get turnaround from days down to under 24 hours by having people log from mobile and auto-notifying the PM.
+* **Get rid of paper tracking**: capture all daily site logs and safety reports through mobile forms so everything's searchable instead of scattered on paper.
+* **Stop rework from outdated blueprints**: give the team real-time blueprint access and mobile markup tools so nobody's building off an old drawing.
 
 ### Milestone Schedule
 **Deliverable #1**: September 21, 2026

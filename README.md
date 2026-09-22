@@ -23,7 +23,7 @@ A field operations & chain management portal will be able to effectively allow f
 **Deliverable #6**: November 9, 2026
 
 ### Budget
-
+The Field Operations & Change Management Portal is estimated to cost around $500,000 to $560,000, covering a 6-9 month build with a small team of a Project Manager, Business Analyst, Systems Architect, Dev Team, and QA Lead. Most of that cost goes toward labor, especially the developers building the mobile and web portal. The rest covers cloud hosting, security review, staff training, and a contingency buffer for unexpected costs. If the scope were trimmed to just the core features first, the cost could drop closer to $300,000-$350,000.
 
 ### Team Governance
 Deadline Management will be the responsibility of the Project Manager.

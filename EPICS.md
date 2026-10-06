@@ -1,6 +1,5 @@
 # Epics: Field Operations & Change Management Portal
 
-This project is organized into six epics. Each epic has a matching GitHub label (`epic:<name>`) applied to every issue that belongs to it.
 
 | Epic | Label | Issues |
 |---|---|---|

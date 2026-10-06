@@ -20,6 +20,10 @@ Katherine Kopp (Executive Sponsor)
 * The Project Manager, Lead Business Analyst, and Systems Architect will be responsible for submitting all deliverables
 
 ## Project Objectives
+* Recognize all softwares that will be used during the project execution
+* Enable real-time cost & process tracking
+* Streamline communication & workflow approvals
+* Reduce overruns & delays
 
 ## Project Deliverables
 **Deliverable 1:** Mobile-accessible daily site logs and safety incident tracking module.
@@ -35,3 +39,7 @@ Katherine Kopp (Executive Sponsor)
 * The system must successfully link submitted change orders to real-time project budget impacts.
 * Site logs, safety reports, and blueprints must be fully accessible and editable via mobile devices in the field.
 ## Project Requirements
+* Create Mobile Field Operations App
+* Documentation Image Management
+* Digital Change Order Workflow
+* Centralized Reporting
